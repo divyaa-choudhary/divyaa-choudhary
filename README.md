@@ -31,8 +31,6 @@ I’m a backend developer specializing in Java and Spring Boot. I focus on build
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://img.shields.io/badge/OOP-Concept-blue?style=flat-square" alt="OOP" style="height:40px; margin-right:10px;" />
-  <img src="https://img.shields.io/badge/REST_API-Design-green?style=flat-square" alt="REST API" style="height:40px; margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40" style="margin-right:10px;" />
