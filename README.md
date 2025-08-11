@@ -1,7 +1,7 @@
 # Hey there! I’m Divya Choudhary 👋
 
-### 👩‍💻 About Me  
-I’m a backend wizard brewing magic with Java and Spring Boot. I love turning coffee ☕ and code into scalable, secure, and efficient apps that work!
+### 👩‍💻 About Me 
+I’m a backend developer specializing in Java and Spring Boot. I focus on building scalable, secure, and efficient applications that deliver real value.
 
 ### 💼 What I Do  
 - Build backend systems and REST APIs  
@@ -11,7 +11,7 @@ I’m a backend wizard brewing magic with Java and Spring Boot. I love turning c
 ### 🌱 Currently Learning  
 - Spring Security & JWT  
 - Building slick CI/CD pipelines that just work  
-- Mastering design patterns - one at a time
+- Experimenting with Design Patterns - one at a time
 - Mastering the art of learning things on the fly
 
 ### 🎯 Interests  
@@ -26,14 +26,24 @@ I’m a backend wizard brewing magic with Java and Spring Boot. I love turning c
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+### 🛠️ Technologies I Work With
+
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
+![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)  
+![OOP](https://img.shields.io/badge/OOP-Concept-blue?style=for-the-badge)  
+![REST API](https://img.shields.io/badge/REST_API-Design-green?style=for-the-badge)  
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)  
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)  
+![Elasticsearch](https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg)  
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)  
+![Kafka](https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg)  
+![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)  
+![JUnit](https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg)  
+![JMeter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg)  
+![Splunk](https://img.shields.io/badge/Splunk-Black?style=for-the-badge&logo=splunk&logoColor=white)  
+![Kibana](https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg)  
+![Grafana](https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg)  
+
 
 ---
 
