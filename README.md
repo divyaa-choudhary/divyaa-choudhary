@@ -28,21 +28,22 @@ I’m a backend developer specializing in Java and Spring Boot. I focus on build
 
 ### 🛠️ Technologies I Work With
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
-![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)  
-![OOP](https://img.shields.io/badge/OOP-Concept-blue?style=for-the-badge)  
-![REST API](https://img.shields.io/badge/REST_API-Design-green?style=for-the-badge)  
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)  
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)  
-![Elasticsearch](https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg)  
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)  
-![Kafka](https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg)  
-![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)  
-![JUnit](https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg)  
-![JMeter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg)  
-![Splunk](https://img.shields.io/badge/Splunk-Black?style=for-the-badge&logo=splunk&logoColor=white)  
-![Kibana](https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg)  
-![Grafana](https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://img.shields.io/badge/OOP-Concept-blue?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/REST_API-Design-green?style=flat-square" alt="REST API"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" alt="JMeter" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Splunk-Black?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" width="90" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
 
 ---
