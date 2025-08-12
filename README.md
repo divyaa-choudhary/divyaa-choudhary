@@ -22,7 +22,7 @@ I’m a backend developer specializing in Java and Spring Boot. I focus on build
 ### ⚡ Quik Facts  
 - Currently reading [System Design by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) 
 - Slightly less of a disaster in the kitchen these days 🍳  
-- Travelling and snapping shots wherever I go 📸  
+- Travelling and snapping shots wherever I go 📸
 
 ---
 
@@ -42,6 +42,8 @@ I’m a backend developer specializing in Java and Spring Boot. I focus on build
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://svgrepo.com/show/329945/apachejmeter.svg" alt="Apache JMeter" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/?.png" alt="Mockito" width="40" height="40" style="margin-right:10px;" />
 </p>
 
 
