@@ -43,7 +43,7 @@ I’m a backend developer specializing in Java and Spring Boot. I focus on build
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin-right:10px;" />
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Apache JMeter" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mockito_Logo.png" alt="Mockito" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3NDVbzYlOTLyRSrpay9uYw.png" alt="Mockito" width="40" height="40" style="margin-right:10px;" />
 </p>
 
 
