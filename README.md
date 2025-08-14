@@ -1,23 +1,23 @@
 # Hey there! I’m Divya Choudhary 👋
 
 ### 👩‍💻 About Me 
-I’m a backend developer specializing in Java and Spring Boot. I focus on building scalable, secure, and efficient applications that deliver real value.
+I’m a backend developer specialising in Java and Spring Boot. I focus on building scalable, secure, and efficient applications that deliver real value.
 
 ### 💼 What I Do  
 - Build backend systems and REST APIs  
-- Develop microservices with clean architecture  
-- Focus on testing and continuous improvement    
+- Build and maintain microservices with a focus on modularity, performance, and scalability  
+- Optimise system performance through profiling, tuning, and refactoring    
 
 ### 🌱 Currently Learning  
 - Spring Security & JWT  
-- Building slick CI/CD pipelines that just work  
+- Building slick CI/CD pipelines that work  
 - Experimenting with Design Patterns - one at a time
 - Mastering the art of learning things on the fly
 
 ### 🎯 Interests  
 - Open Source Contributions (recently developed a stronger interest)   
-- Penning down thoughts & tutorials on [Medium](https://medium.com/@divyaa.choudharyy0428) 
-- Exploring basics of AI and Machine Learning — because who isn’t excited about the future of tech? 🚀 
+- Penning down thoughts on [Medium](https://medium.com/@divyaa.choudharyy0428) 
+- Exploring basics of AI and Machine Learning because who isn’t excited about the future of tech? 🚀 
 
 ### ⚡ Quik Facts  
 - Currently reading [System Design by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) 
