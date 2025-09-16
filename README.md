@@ -5,7 +5,8 @@ I’m a backend developer specialising in Java and Spring Boot. I focus on build
 
 ### 💼 What I Do  
 - Build backend systems and REST APIs  
-- Build and maintain microservices with a focus on modularity, performance, and scalability      
+- Build and maintain microservices with a focus on modularity, performance, and scalability
+- Optimise system performance through profiling, tuning, and refactoring     
 
 ### 🌱 Currently Learning  
 - Spring Security & JWT  
